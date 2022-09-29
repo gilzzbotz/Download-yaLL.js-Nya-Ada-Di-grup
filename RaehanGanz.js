@@ -1448,88 +1448,20 @@ anjay(res)
 });
 break
 //=================================================//
-case 'kal': {
+case 'han': {
 if (isBan) throw sticBanLu(from)
 
- hey = fs.readFileSync('./RaehanMedia/sound/tes.mp3')
+ hey = fs.readFileSync('./RaehanMedia/sound/raehan.mp3')
  RaehanGanz.sendMessage(m.chat, {audio: hey, mimetype: 'audio/mpeg', ptt:true }, {quoted: Raehan})
  }
  break
-case 'ngakak': {
-if (isBan) throw sticBanLu(from)
 
- hiy = fs.readFileSync('./RaehanMedia/sound/ketawa.mp3')
- RaehanGanz.sendMessage(m.chat, {audio: hiy, mimetype: 'audio/mpeg', ptt:true }, {quoted: Raehan})
- }
- break
-case 'ketawa': {
-if (isBan) throw sticBanLu(from)
-
- hoy = fs.readFileSync('./RaehanMedia/sound/ketawa.mp3')
- RaehanGanz.sendMessage(m.chat, {audio: hoy, mimetype: 'audio/mpeg', ptt:true }, {quoted: Raehan})
- }
- break
-case 'awkwk': {
-if (isBan) throw sticBanLu(from)
-
- huy = fs.readFileSync('./RaehanMedia/sound/awkwk.mp3')
- RaehanGanz.sendMessage(m.chat, {audio: huy, mimetype: 'audio/mpeg', ptt:true }, {quoted: Raehan})
- }
- break
+  
 case 'bang': {
 if (isBan) throw sticBanLu(from)
 
  mi = fs.readFileSync('./RaehanMedia/sound/bang.mp3')
  RaehanGanz.sendMessage(m.chat, {audio: mi, mimetype: 'audio/mpeg', ptt:true }, {quoted: Raehan})
- }
- break
-case 'nob': {
-if (isBan) throw sticBanLu(from)
-
- miki = fs.readFileSync('./RaehanMedia/sound/nob.mp3')
- RaehanGanz.sendMessage(m.chat, {audio: miki, mimetype: 'audio/mpeg', ptt:true }, {quoted: Raehan})
- }
- break
-case 'musik': {
-if (isBan) throw sticBanLu(from)
-
- mo = fs.readFileSync('./RaehanMedia/sound/ikehcok.mp3')
- RaehanGanz.sendMessage(m.chat, {audio: mo, mimetype: 'audio/mpeg', ptt:true }, {quoted: Raehan})
- }
- break
-case 'mastah': {
-if (isBan) throw sticBanLu(from)
-
- mu = fs.readFileSync('./RaehanMedia/sound/mastah.mp3')
- RaehanGanz.sendMessage(m.chat, {audio: mu, mimetype: 'audio/mpeg', ptt:true }, {quoted: Raehan})
- }
- break
-case 'slebew': {
-if (isBan) throw sticBanLu(from)
-
- me = fs.readFileSync('./RaehanMedia/sound/ikehcok.mp3')
- RaehanGanz.sendMessage(m.chat, {audio: me, mimetype: 'audio/mpeg', ptt:true }, {quoted: Raehan})
- }
- break
-case 'cantik': {
-if (isBan) throw sticBanLu(from)
-
- muku = fs.readFileSync('./RaehanMedia/sound/loli.mp3')
- RaehanGanz.sendMessage(m.chat, {audio: muku, mimetype: 'audio/mpeg', ptt:true }, {quoted: Raehan})
- }
- break
-case 'kesel': {
-if (isBan) throw sticBanLu(from)
-
- meke = fs.readFileSync('./RaehanMedia/sound/kesel.mp3')
- RaehanGanz.sendMessage(m.chat, {audio: meke, mimetype: 'audio/mpeg', ptt:true }, {quoted: Raehan})
- }
- break
-case 'ngeselin': {
-if (isBan) throw sticBanLu(from)
-
- moko = fs.readFileSync('./RaehanMedia/sound/ngeselin.mp3')
- RaehanGanz.sendMessage(m.chat, {audio: moko, mimetype: 'audio/mpeg', ptt:true }, {quoted: Raehan})
  }
  break
 //=================================================//
