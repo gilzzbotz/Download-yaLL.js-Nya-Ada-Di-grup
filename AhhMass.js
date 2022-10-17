@@ -29,10 +29,10 @@ global.footer = 'RAEHAN 1986' //ubah jadi nama mu, note tanda ' gausah di hapus!
 // Other
 global.owner = ['6285349736408']
 global.premium = ['6285349736408']
-global.packname = 'BABI FADIL  ALERGI  TERHADAP   SINGKONG     MENTAH'
+global.packname = '     MENTAH'
 global.ownerr = ['RAEHAN 1986']
 global.author = 'MOHON BANTUANNYA  BUAT   SUMBANGAN   KACANG'
-global.sessionName = 'Kontol'
+global.sessionName = 'session'
 global.prefa = ['','!','.',',','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
