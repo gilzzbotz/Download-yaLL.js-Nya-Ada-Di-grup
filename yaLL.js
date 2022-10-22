@@ -2108,7 +2108,7 @@ await yaLL.groupAcceptInvite(result).then((res) => anjay(jsonformat(res))).catch
 }
 break
 //=================================================//
-case 'keluar': {
+case 'leave': {
 if (!isCreator) return
 if (isBan) throw sticBanLu(from)
 
@@ -2590,7 +2590,7 @@ let media = await quoted.download()
 let encmedia = await yaLL.sendImageAsSticker(m.chat, media, m, { packname: global.packname, author: global.author })
 await fs.unlinkSync(encmedia)
 } else if (/video/.test(mime)) {
-if ((quoted.msg || quoted).seconds > 11) return anjay('Maksimal 10 detik!')
+if ((quoted.msg || quoted).seconds > 51) return anjay('Maksimal 50 detik!')
 let media = await quoted.download()
 let encmedia = await yaLL.sendVideoAsSticker(m.chat, media, m, { packname: global.packname, author: global.author })
 await fs.unlinkSync(encmedia)
