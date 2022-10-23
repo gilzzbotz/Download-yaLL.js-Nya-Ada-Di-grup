@@ -139,7 +139,7 @@ global.limitawal = {
 
 //=================================================//
 
-global.thumb = fs.readFileSync("./MediaRaehan/image/kadal.jpg")
+global.thumb = fs.readFileSync("./MediaRaehan/image/bacotah.jpg")
 
 global.visoka = fs.readFileSync("./MediaRaehan/image/thumbnail.jpg")
 
