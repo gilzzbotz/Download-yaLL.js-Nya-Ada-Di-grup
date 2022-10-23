@@ -19,8 +19,8 @@ global.myweb = 'https://www.instagram.com/raehan1986'
 global.linkgrupss = "https://chat.whatsapp.com/IReEw8uRufv55ehFUGLT1G"
 global.email = 'bacotah@gmail.com'
 global.region = 'Kota Manado'
-global.recording = true
-global.composing = false
+
+
 //—————「 Set Nama Own & Bot 」—————//
 global.ownername = 'RAEHAN 1986'
 global.botname = 'RAEHAN 1986'
