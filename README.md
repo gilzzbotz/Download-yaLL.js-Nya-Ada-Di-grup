@@ -1,27 +1,27 @@
-  <body>
-<h1 align="center">🔥 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 🔥</h1>
+    <body>
+<h1 align="center"> 🌹CREATED BY ICA🌹 </h1>
 
-#### TOTAL REPO VIEWS📍
+#### TOTAL REPO VIEWS🤟
 ![Visitor Count](https://profile-counter.glitch.me/terror-boy/count.svg)
 
 <h1 align="center">REY 1986 BOT - MD</h1>
 </p>
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FFFF00&lines=WELCOME+TO+GEOLOGI+TEAM+MD+WA+BOT.;CREATED+BY+GEOLOGI-TEAM;+SUBSCRIBE+YT+REY+1986+MULTIDEVICE+WA+BOT;THANKS+FOR+VISITING+MY+GIT)](https://git.io/typing-svg)
+
 
 
 <br>
 <div align="center">
-<img src="https://telegra.ph/file/497215b3e9faf220637e5.jpg">
+<img src="https://telegra.ph/file/2b771b52d3f9872f6444b.jpg">
 </div>
 <br>
 </p>
 <div>
-<img src="https://telegra.ph/file/bebaacdb3474839d78c39.jpg" align="right">
+<img src="https://telegra.ph/file/033f1f50cc334af47cbe1.jpg" align="right">
 <div>
 </p>
 
-
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FFFF00&lines=WELCOME+TO+GEOLOGI+TEAM+MD+WA+BOT.;CREATED+BY+Y4LL;+SUBSCRIBE+YT+REY+1986+MULTIDEVICE+WA+BOT;THANKS+FOR+VISITING+MY+GIT)](https://git.io/typing-svg)
 
 </p>
 </p>
@@ -36,7 +36,7 @@
 # Support Group <a href="https://chat.whatsapp.com/LMuuBpMDTkb6Zmg3KorYgQ"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-lightgrey?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 ## ```Recode By 🖕```
-[![GEOLOGI-TEAM](https://github.com/GEOLOGI-TEAM.png?size=100)](https://github.com/GEOLOGI-TEAM)
+[![Y4LL](https://github.com/Y4LL.png?size=100)](https://github.com/Y4LL)
 <div>
 
 </p>
@@ -44,20 +44,20 @@
 <p align="center">
   <a href="https://open.spotify.com/track/4bNvS25ZVMCvLHEUV87mp4?si=yb1PaPVnRgiTYedy8r6i_g&utm_source=copy-link&context=spotify%3Aplaylist%3A37i9dQZF1EIVoBTSiHHsdx&dl_branch=1" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
 </p>
-<p align="center"><a href="https://github.com/GEOLOGI-TEAM"><img src="https://github-readme-stats.vercel.app/api?username=GEOLOGI-TEAM&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/Y4LL"><img src="https://github-readme-stats.vercel.app/api?username=Y4LL&show_icons=true&theme=radical"></a></p>
 </div>
 
 
 
 ## `SETTING`
 
-- Owner Number [Here](https://github.com/GEOLOGI-TEAM/blob/multi-device/config.js#L1)
-- Owner Name [Here](https://github.com/GEOLOGI-TEAM/blob/multi-device/config.js#L1)
-- Bot Name [Here](https://github.com/GEOLOGI-TEAM/blob/multi-device/config.js#L1)
+- Owner Number [Here](https://github.com/Y4LL/blob/multi-device/config.js#L1)
+- Owner Name [Here](https://github.com/Y4LL/blob/multi-device/config.js#L1)
+- Bot Name [Here](https://github.com/Y4LL/blob/multi-device/config.js#L1)
 ---------
 
 ## ```Heroku Buildpack```
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/GEOLOGI-TEAM)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Y4LL)
 
 | BuildPack | LINK |
 |--------|--------|
@@ -71,11 +71,11 @@ $ pkg install git -y
 $ pkg install nodejs -y
 $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
-$ git clone https://github.com/GEOLOGI-TEAM/
-$ cd GEOLOGI-TEAM
+$ git clone https://github.com/Y4LL/
+$ cd Y4LL
 $ npm i 
 ```
-If error try using yarn instead of npm, see [here](https://github.com/GEOLOGI-TEAM#if-npm-install-failed--try--using-yarn-instead-of-npm)
+If error try using yarn instead of npm, see [here](https://github.com/Y4LL#if-npm-install-failed--try--using-yarn-instead-of-npm)
 ```bash
 $ node .
 ```
@@ -108,14 +108,14 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 
 ---------
 
-[ INSTALLING NODEJS & GEOLOGI-TEAM]
+[ INSTALLING NODEJS & Y4LL]
 
 ```bash
 ubuntu
 curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
 apt install -y nodejs gcc g++ make
-git clone https://github.com/GEOLOGI-TEAM/
-cd GEOLOGI-TEAM
+git clone https://github.com/Y4LL/
+cd Y4LL
 npm install
 npm update
 ```
@@ -130,7 +130,7 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/GEOLOGI-TEAM/
+git clone https://github.com/Y4LL/
 cd sdcard
 npm install
 npm update
@@ -203,7 +203,7 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', null, [
       ['Hello', 'hello'], ['Bye', 'bye']
 ])
 // example button location
-conn.sendButton(m.chat, 'Hello world!', '@REY1986', 'https://github.com/GEOLOGI-TEAM', 
+conn.sendButton(m.chat, 'Hello world!', '@REY1986', 'https://github.com/Y4LL', 
       [['Hello', 'hello'], ['Bye', 'bye']], 
       null, { asLocation: true }
 )
@@ -220,21 +220,22 @@ conn.sendButton(m.chat, 'Hello world!', '@REY1986', 'https://github.com/GEOLOGI-
 
 
 ## ```Thanks to ✨```
-* [`Allah SWT`](https://github.com/GEOLOGI-TEAM)
-* [`My parents`](https://github.com/GEOLOGI-TEAM)
-* [`All Friends`](https://github.com/GEOLOGI-TEAM)
-* [`All Contributors`](https://github.com/GEOLOGI-TEAM)
-* [`All Creator Bot`](https://github.com/GEOLOGI-TEAM)
+* [`Allah SWT`](https://github.com/Y4LL)
+* [`My parents`](https://github.com/Y4LL)
+* [`All Friends`](https://github.com/Y4LL)
+* [`All Contributors`](https://github.com/Y4LL)
+* [`All Creator Bot`](https://github.com/Y4LL)
 
 
 
 
-## ```Cohttps://github.com/GEOLOGI-TEAM)
-* [`AmirulDev20`](https://github.com/GEOLOGI-TEAM)
-* [`Rasel Comel`](https://github.com/GEOLOGI-TEAM)
-* [`Rominaru`](https://github.com/GEOLOGI-TEAM)
+## ```Cohttps://github.com/Y4LL)
+* [`AmirulDev20`](https://github.com/Y4LL)
+* [`Rasel Comel`](https://github.com/Y4LL)
+* [`Rominaru`](https://github.com/Y4LL)
 
 
-<p align="center">
-    <img src="https://telegra.ph/file/7a008c5243ca4140bff70.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+<div>
+<img src="https://telegra.ph/file/af6471f8c2fc795ed2aab.jpg" align="right">
+<div>
 </p>
