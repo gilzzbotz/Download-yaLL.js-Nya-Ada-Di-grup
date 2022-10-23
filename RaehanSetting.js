@@ -37,7 +37,7 @@ global.linkgrupss = "https://chat.whatsapp.com/Jh7zaCSnPCBC4gdYOEVm0K"
 
 global.linkpro = 'mailto:support@whatsapp.com?subject=Deactivate%20My%20Account%20Number&body=Please%20Deactivate%20The%20My%20Account%20Number%20%2B62XXXXXXXX%20Immediately%20Because%20The%20Number%20Has%20Been%20Lost'
 
-global.email = 'biiadap@gmail.com'
+global.email = 'ica190@gmail.com'
 
 global.region = 'indonesia'
 
@@ -57,13 +57,13 @@ global.owner = ['6285349736408']
 
 global.premium = ['6285349736408']
 
-global.packname = 'BANGSAT BANGET GAYA LU'
+global.packname = 'Kepo Amat Jadi Orang'
 
 global.ownerr = ['RAEHAN 1986']
 
-global.author = 'MENDETEKSI SINGKONG'
+global.author = 'Emangnya Siapa Dirimu'
 
-global.sessionName = 'lance'
+global.sessionName = 'RaehanBoss'
 
 global.prefa = ['','!','.',',','🐤','🗿']
 
