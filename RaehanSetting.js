@@ -143,7 +143,7 @@ global.thumb = fs.readFileSync("./MediaRaehan/image/bacotah.jpg")
 
 global.visoka = fs.readFileSync("./MediaRaehan/image/thumbnail.jpg")
 
-global.log0 = fs.readFileSync("./MediaRaehan/image/raehan.jpg")
+global.log0 = fs.readFileSync("./MediaRaehan/image/rey.jpg")
 
 global.menuimg = 'https://d.top4top.io/p_2462t8qyt1.jpg'
 
