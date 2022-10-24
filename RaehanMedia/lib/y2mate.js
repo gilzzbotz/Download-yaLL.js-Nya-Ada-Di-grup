@@ -28,7 +28,7 @@ let ytId = ytIdRegex.exec(url)
 url = 'https://youtu.be/' + ytId[1]
 let res = await post(`https://www.y2mate.com/mates/${server}/analyze/ajax`, {
 url,
-q_auto: 1,
+q_auto: 0,
 ajax: 1
 })
 let json = await res.json()
