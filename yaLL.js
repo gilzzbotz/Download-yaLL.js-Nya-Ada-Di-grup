@@ -46,9 +46,7 @@ const { mediafireDl } = require('./RaehanMedia/lib/mediafire.js')
 const banned = JSON.parse(fs.readFileSync('./RaehanMedia/dbnye/banned.json'))
 const ntilink = JSON.parse(fs.readFileSync("./RaehanMedia/lib/antilink.json"))
 
-
-readG = true // Auto Read Group 
-readP = false // Auto Read Private 
+  
 //=================================================//
 // Function
 wm = 'REY 1986'
