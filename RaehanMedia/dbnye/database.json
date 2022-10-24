@@ -1,6 +1,6 @@
 {
   "users": {
-    "6281214281312@s.whatsapp.net": {
+    "6285349736408@s.whatsapp.net": {
       "afkTime": -1,
       "afkReason": "",
       "limit": "Infinity"
@@ -12,7 +12,7 @@
     }
   },
   "chats": {
-    "6281214281312@s.whatsapp.net": {
+    "6285349736408@s.whatsapp.net": {
       "mute": false
     },
     "120363041426385506@g.us": {
@@ -56,7 +56,7 @@
       "templateMsg": false,
       "available": false,
       "composing": false,
-      "recording": false
+      "recording": true
     }
   },
   "others": {
