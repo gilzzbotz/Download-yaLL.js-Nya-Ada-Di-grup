@@ -1250,6 +1250,113 @@ yaLL.sendMessage(m.chat, bugahay, { quoted: ReyDong }).catch(err => {
 })
 break
 //=================================================//
+		
+case 'autovn': {
+
+if (!isCreator && !isBan) return 
+
+if (args.length < 1) return m.reply(`Ketik on untuk mengaktifkan\nKetik off untuk menonaktifkan`)
+
+if (args[0] === 'on') {
+
+if (autorecording === true) return
+
+global.autorecording = true
+
+m.reply(`Berhasil mengaktifkan autovn!`)
+
+} else if (args[0] === 'off') {
+
+if (autorecording === false) return
+
+global.autorecording = false
+
+m.reply(`Berhasil menonaktifkan autovn!`)
+
+} else {
+
+m.reply('Pilih on atau off')
+
+}
+
+}
+
+break
+
+case 'autoketik': {
+
+if (!isCreator && !isBan) return 
+
+if (args.length < 1) return m.reply(`Ketik on untuk mengaktifkan\nKetik off untuk menonaktifkan`)
+
+if (args[0] === 'on') {
+
+if (autoketik === true) return
+
+global.autoketik = true
+
+m.reply(`Berhasil mengaktifkan autoketik!`)
+
+} else if (args[0] === 'off') {
+
+if (autoketik === false) return
+
+global.autoketik = false
+
+m.reply(`Berhasil menonaktifkan autoketik!`)
+
+} else {
+
+m.reply('Pilih on atau off')
+
+}
+
+}
+
+break
+
+case 'autoavailable': {
+
+if (!isCreator && !isBan) return 
+
+if (args.length < 1) return m.reply(`Ketik on untuk mengaktifkan\nKetik off untuk menonaktifkan`)
+
+if (args[0] === 'on') {
+
+if (autoavailable === true) return
+
+global.autoavailable = true
+
+m.reply(`Berhasil mengaktifkan autoavailable!`)
+
+} else if (args[0] === 'off') {
+
+if (autoavailable === false) return
+
+global.autoavailable = false
+
+m.reply(`Berhasil menonaktifkan autoavailable!`)
+
+} else {
+
+m.reply('Pilih on atau off')
+
+}
+
+}
+
+break
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 case 'jadibug1': {
 if (isBan) throw sticBanLu(from)
 
