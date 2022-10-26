@@ -21,7 +21,7 @@
 <div>
 </p>
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FFFF00&lines=WELCOME+TO+GEOLOGI+TEAM+MD+WA+BOT.;CREATED+BY+Y4LL;+SUBSCRIBE+YT+REY+1986+MULTIDEVICE+WA+BOT;THANKS+FOR+VISITING+MY+GIT)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FFFF00&lines=WELCOME+TO+GEOLOGI+TEAM+MD+WA+BOT.;CREATED+BY+Y4LL;+SUBSCRIBE+YT+Y4LL;THANKS+FOR+VISITING+MY+GIT)](https://git.io/typing-svg)
 
 </p>
 </p>
