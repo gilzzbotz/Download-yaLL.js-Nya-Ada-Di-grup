@@ -24,18 +24,18 @@ global.myweb = 'https://www.instagram.com/raehan1986'
 global.linkgrupss = "https://chat.whatsapp.com/IReEw8uRufv55ehFUGLT1G"
 global.linkpro = 'mailto:support@whatsapp.com?subject=Deactivate%20My%20Account%20Number&body=Please%20Deactivate%20The%20My%20Account%20Number%20%2B62XXXXXXXX%20Immediately%20Because%20The%20Number%20Has%20Been%20Lost'
 global.email = 'bacotah@gmail.com'
-global.region = 'Kota Manado'
+global.region = 'Japan'
 
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'RAEHAN 1986'
-global.botname = 'RAEHAN 1986'
-global.footer = 'RAEHAN 1986' 
+global.ownername = 'KINGPELER'
+global.botname = 'KINGPELER'
+global.footer = 'KINGPELER' 
 //=================================================//
 // Other
-global.owner = ['6285349736408']
-global.premium = ['6285349736408']
+global.owner = ['685807264974']
+global.premium = ['685807264974']
 global.packname = 'APA SIH BANGSAT'
-global.ownerr = ['RAEHAN 1986']
+global.ownerr = ['KINGPELER']
 global.author = 'KEPO BANGET SIH JADI ORANG'
 global.sessionName = 'RaehanBoss'
 global.prefa = ['','!','.',',','🐤','🗿']
@@ -46,7 +46,7 @@ global.mess = {
     private: 'Fitur Digunakan Hanya Untuk Private Chat!',
     bot: 'Fitur Khusus Pengguna Nomor Bot',
     endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
-    verif: 'Hai Kakak 👋 Silahkan Verifikasi Terlebih Dahulu Agar Bisa Menggunakan Bot RAEHAN',
+    verif: 'Hai Kakak 👋 Silahkan Verifikasi Terlebih Dahulu Agar Bisa Menggunakan Bot KINGPELER',
 }
 //=================================================//
 global.doc1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
